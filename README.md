@@ -26,4 +26,4 @@ This project provides an **Invoice PDF Generation** system built with **Spring B
 
 Below is an example of a request and response using Postman:
 
-![Postman Example](images/postman_example.png)
+![Postman Example](images/invoice_example.png)
