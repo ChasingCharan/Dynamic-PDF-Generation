@@ -17,8 +17,9 @@ public class Invoice {
     int id;
 
     @Lob
+    @Column(nullable = false)
     String jsonString;
-
+    @Column(nullable = false)
     String filePath;
 
 }
